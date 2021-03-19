@@ -23,6 +23,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Windows
 - ⚡ Fun fact: Coding Machine
 
+## My Content
+- [Medium Blog](https://ranamahmud.medium.com/)
+- [LinkedIn Profile](https://www.linkedin.com/in/mdranamahmud/)
+- [Twitter Stream](https://twitter.com/md_rana_mahmud) 
+
 <p align="center">
 <!-- ![](https://komarev.com/ghpvc/?username=ranamahmud) -->
 <img src="https://komarev.com/ghpvc/?username=ranamahmud" alt="ranamahmud"/>

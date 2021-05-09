@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m a Software Engineer.
 - 🌱 I’m currently learning Ruby on Rails, Data Science
 - 👯 I’m looking to collaborate on Machine Learning and Data Science
-- 🤔 I’m looking for help with getting a remote job.
 - 📫 How to reach me: email me at ranamd0 at gmail dot com
 - 😄 Pronouns: Windows
 - ⚡ Fun fact: Coding Machine

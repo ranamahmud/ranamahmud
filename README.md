@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a Software Engineer.
-- 🌱 I’m currently learning Ruby on Rails, Data Science
-- 👯 I’m looking to collaborate on Machine Learning and Data Science
+- 🌱 I’m currently learning C++, Data Science
+- 👯 I’m looking to collaborate on AI, Machine Learning and Data Science
 - 📫 How to reach me: email me at ranamd0 at gmail dot com
-- 😄 Pronouns: Windows
+<!-- - 😄 Pronouns: Windows -->
 - ⚡ Fun fact: Coding Machine
 
 ## My Content

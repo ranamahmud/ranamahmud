@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a Machine Learning & Backend Engineer.
-- 🌱 I’m currently learning C#, Deep Learning and Problem Solving
+- 🔭 I’m a Senior Data Scientist.
+- 🌱 I’m currently learning Large Language Models, Deep Learning and Problem Solving
 - 👯 I’m looking to collaborate on AI, Machine Learning and Data Science
 - 📫 How to reach me: email me at ranamd0 at gmail dot com
 <!-- - 😄 Pronouns: Windows -->
